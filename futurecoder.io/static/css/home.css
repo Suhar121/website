@@ -1,0 +1,42 @@
+.home-page .alert.alert-success {
+  color: #155724;
+  background-color: #d4edda;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid #c3e6cb;
+  border-radius: 0.25rem;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.badges .badge {
+  border-radius: 10px;
+  border: 1px solid grey;
+  width: 288px;
+  padding: 5px;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+.badges .badge .center-text {
+  font-size: larger;
+  margin-bottom: 0.6em;
+  color: white;
+}
+.badges .badge .flex {
+  display: flex;
+  justify-content: space-around;
+}
+.badges .badge a {
+  text-decoration: none;
+}
+.badges .badge strong {
+  color: white;
+}
+.badges .badge .testimonial {
+  font-style: italic;
+}
+
+/*# sourceMappingURL=home.css.map */
